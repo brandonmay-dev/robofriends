@@ -1,12 +1,10 @@
 @font-face {
-  font-family: "SEGA LOGO FONT";
+  font-family: "Abres";
   font-style: normal;
   font-weight: normal;
-  src: local("SEGA LOGO FONT"), url("SEGA.woff") format("woff");
+  src: url("src/assets/Abres-j9MaM.woff") format("woff");
 }
 
 h1 {
-  font-family: "SEGA LOGO FONT";
-  font-weight: 200;
-  color: #0ccac4;
+  font-family: "Abres", system-ui, sans-serif;
 }
