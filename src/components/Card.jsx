@@ -1,6 +1,6 @@
 const Card = ({ name, email, id }) => {
   return (
-    <div className="tc grow bg-light-green br3 pa3 ma2 dib bw2 shadow-5 w5">
+    <div className="tc grow bg-near-white br3 pa3 ma2 dib bw2 shadow-5 w5">
       <img
         alt="robots"
         src={`https://robohash.org/${id}?size=200x200`}
