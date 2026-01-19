@@ -50,25 +50,6 @@ The project is built with React, Vite, and Tachyons, and uses an external API fo
 
 ---
 
-## Project Structure
-
-src/
-├── assets/
-│ └── Abres-j9MaM.woff
-├── components/
-│ ├── Card.jsx
-│ ├── CardList.jsx
-│ ├── SearchBox.jsx
-│ └── Scroll.jsx
-├── containers/
-│ └── App.css
-│ └── App.jsx
-├── index.css
-└── main.jsx
-└── robots.jsx
-
----
-
 ## Data Source
 
 Robot data is fetched from:
