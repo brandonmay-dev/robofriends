@@ -2,7 +2,8 @@
   font-family: "Abres";
   font-style: normal;
   font-weight: normal;
-  src: url("src/assets/Abres-j9MaM.woff") format("woff");
+  src: url("../assets/Abres-j9MaM.woff") format("woff");
+  font-display: swap;
 }
 
 h1 {
